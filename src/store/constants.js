@@ -1,0 +1,1 @@
+export const TEXT_ADD = 'TEXT_ADD';
