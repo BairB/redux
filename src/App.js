@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import Vvod from './component/vvod';
 import Vivod from './component/vivod';
 import Test from './store/vvodContainer'
 
