@@ -4,7 +4,7 @@ class vivod extends Component {
     render() {
         return (
           <div className="App">
-          <h4>текст проверка</h4>
+          <h4>{this.props.text}</h4>
           </div>
         );
       }

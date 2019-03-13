@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 import Vivod from './component/vivod';
-import Test from './store/vvodContainer'
+import Test from './store/vvodContainer';
+import Testvivod from './store/vivodContainer'
 
 
 class App extends Component {
@@ -9,7 +10,7 @@ class App extends Component {
     return (
       <div className="App">
       <Test />
-      <Vivod />
+      <Testvivod />
       </div>
     );
   }
